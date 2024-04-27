@@ -1,0 +1,5 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_vente_customer,vente.vente,model_vente_customer,,1,1,1,1
+access_vente_product,vente.vente,model_vente_product,,1,1,1,1
+access_vente_category,vente.vente,model_vente_category,,1,1,1,1
+access_vente_order,vente.vente,model_vente_order,,1,1,1,1
